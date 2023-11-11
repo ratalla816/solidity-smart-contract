@@ -1,4 +1,4 @@
-# solidity Smart Contract
+# Solidity Smart Contract
 
   ![badge](https://img.shields.io/github/languages/top/ratalla816/solidity-smart-contract)
   <br> 
@@ -20,7 +20,6 @@
   - [Description](#description)
   - [Documentation](#documentation)
   - [Deployment](#deployment)
-  - [Usage](#usage)
   - [Screenshot](#screenshot)
   - [Features](#features)
   - [Acknowledgements](#acknowledgements)
